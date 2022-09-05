@@ -87,4 +87,4 @@ convidando-os a todos, em coorte,
 a se aplicarem sobre o pasto inédito
 da natureza mítica das coisas.
 
-![Isso é uma imagem](https://ccs-vernacular.medium.com/sobre-o-poema-a-m%C3%A1quina-do-mundo-97623982cf57)
+![Isso é uma imagem] (https://ccs-vernacular.medium.com/sobre-o-poema-a-m%C3%A1quina-do-mundo-97623982cf57)
