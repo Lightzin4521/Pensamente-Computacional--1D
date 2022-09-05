@@ -10,11 +10,9 @@ E como eu palmilhasse vagamente
 uma estrada de Minas, pedregosa,
 e no fecho da tarde um sino rouco
 
-
 se misturasse ao som de meus sapatos
 que era pausado e seco; e aves pairassem
 no céu de chumbo, e suas formas pretas
-
 
 lentamente se fossemA Máquina do Mundo
 (Carlos Drummond de Andrade)
@@ -91,6 +89,6 @@ da natureza mítica das coisas.
 
 ![Isso é uma imagem](https://miro.medium.com/max/1400/1*euCaEMPmcelzUWs3ODphrQ.jpeg)
 
-Fontes: RevistaBula
+Fontes: Este poema foi construído usando [RevistaBula](https://www.revistabula.com/438-os-10-maiores-poemas-brasileiros-de-todos-os-tempos/).
 
 @LiziBugalski
