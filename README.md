@@ -86,3 +86,5 @@ os mesmos sem roteiro tristes périplos,
 convidando-os a todos, em coorte,
 a se aplicarem sobre o pasto inédito
 da natureza mítica das coisas.
+
+![Isso é uma imagem](https://blogdoims.com.br/a-maquina-do-mundo-se-entreabriu-no-jornal-por-sergio-alcides/)
